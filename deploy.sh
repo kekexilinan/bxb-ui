@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 
-git push -f git@gitee.com:harvey20/bxb-ui.git master:gh-pages
+git push -f git@github.com:kekexilinan/bxb-ui.git master:gh-pages
 
 cd -
