@@ -9,3 +9,10 @@ before_script:
   - "sudo chmod 4755 /opt/google/chrome/chrome-sandbox"
 install:
   - yarn
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: '142be86ee854fc2568a42171d87ebded6769a11d' # Set in travis-ci.org dashboard
+  on:
+    branch: master
+  
