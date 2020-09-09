@@ -55,7 +55,7 @@ export default {
 
 ## 联系方式
 
-邮箱：harvey20@foxmail.com
+邮箱：huangheng7638@126.com
 
 ## 贡献代码
 Harvey
