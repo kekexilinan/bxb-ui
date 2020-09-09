@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/bxb140.png
+heroImage: /assets/lemon140.png
 heroText: bxb UI
 tagline: 一个基于 Vue + Sass 的 UI 组件库
 actionText: 快速上手 →

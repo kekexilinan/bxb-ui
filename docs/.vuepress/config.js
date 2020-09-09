@@ -6,7 +6,7 @@ module.exports = {
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
     themeConfig: {
-        logo: 'assets/bxb140.png',
+        logo: 'assets/lemon140.png',
         sidebar: [
             {
                 title: '开始',
