@@ -58,6 +58,6 @@ export default {
 邮箱：harvey20@foxmail.com
 
 ## 贡献代码
-Pray
+Harvey
 
 
