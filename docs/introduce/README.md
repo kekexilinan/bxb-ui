@@ -1,7 +1,7 @@
 ---
 title: 介绍
 ---
-<!-- [![Build Status](https://travis-ci.org/harvey20/bxb-ui.svg?branch=master)](https://travis-ci.org/harvey20/bxb-ui) -->
+[![Build Status](https://travis-ci.com/kekexilinan/bxb-ui.svg?branch=master)](https://travis-ci.com/kekexilinan/bxb-ui)
 [![NPM](https://img.shields.io/npm/v/bxb-ui-vue)](https://npmjs.org/package/bxb-ui-vue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
